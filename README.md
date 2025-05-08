@@ -4,7 +4,7 @@ Um sistema simples em Java para cadastro e gerenciamento de produtos em estoque.
 
 ---
 
-## 🧠 Conceitos Utilizados
+## ➟  Conceitos Utilizados
 
 - Programação Orientada a Objetos (POO)
 - Encapsulamento com getters e setters
@@ -35,7 +35,7 @@ cadastrodeprodutos/
 
 ---
 
-## ▶️ Como Executar
+## 🔹 Como Executar
 
 1. Clone o repositório ou copie os arquivos `.java` para o seu ambiente de desenvolvimento.
 2. Compile os arquivos:
@@ -69,23 +69,21 @@ Produto cadastrado com sucesso!
 
 ---
 
-## 🚀 Possíveis Melhorias
+## 🔧  Possíveis Melhorias
 
-- Salvar os dados em arquivo `.txt` ou `.csv`
-- Implementar busca por nome ou código
+- Salvar os dados em arquivo `.txt`, `.csv` ou `.json`
 - Interface gráfica com JavaFX ou Swing
-- Cálculo automático do valor total do estoque
 - Ordenação de produtos por nome, código ou preço
 
 ---
 
-## 🪪 Licença
+## 📜 Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
+Distribuído sob a Licença MIT.  
+Consulte `LICENSE.md` para mais informações.
 
 ---
 
-> "Grandes projetos começam com pequenos cadastros."  
+> _"Grandes projetos começam com pequenos cadastros."_  
+Por [Sinthian Marques ](https://github.com/SinthianMar) | [LinkedIn](https://www.linkedin.com/in/sinthianmarques) | sinthianmarquesjp@gmail.com
 
-Por **Sinthian Marques**  
-[LinkedIn](https://www.linkedin.com/in/sinthianmarques) | 📧 sinthianmarquesjp@gmail.com
